@@ -1,9 +1,24 @@
 # 👋 Hi there, I'm Sahil Gupta!
 
-## 🌐 How to reach me:
-- 🌎 Website: [sahilgupta.work](https://sahilgupta.work)
-- 💼 LinkedIn: [LinkedIn](https://www.linkedin.com/in/sahil-gupta-7224962a7/)
-- 💬 Discord: @sahilgupta0622
+## 🌐 How to Reach Me
+
+- 📧 **Email:** [sahilgupta70500@gmail.com](mailto:sahilgupta70500@gmail.com)  
+- 💼 **LinkedIn:** [linkedin.com/in/sahil-gupta-7224962a7](https://www.linkedin.com/in/sahil-gupta-7224962a7/)  
+- 💻 **GitHub:** [github.com/SahilGupta721](https://github.com/SahilGupta721)  
+- 🌎 **Website:** [sahilgupta.work](https://sahilgupta.work)
+
+<p align="center">
+  <a href="mailto:sahilgupta70500@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" width="48" />
+  </a>
+  <a href="https://www.linkedin.com/in/sahil-gupta-7224962a7/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="48" />
+  </a>
+  <a href="https://github.com/SahilGupta721" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="48" />
+  </a>
+<a href="https://sahilgupta.work" target="_blank">
+  </p>
 
 ---
 
