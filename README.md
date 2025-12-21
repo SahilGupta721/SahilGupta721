@@ -92,3 +92,6 @@
 ## 🏆 GitHub Stats
 ![Sahil's GitHub stats](https://github-readme-stats.vercel.app/api?username=sahilgupta721&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sahilgupta721&layout=compact&theme=tokyonight)
+<p align="center">
+  <img width="48%" src="https://streak-stats.demolab.com?user=SahilGupta721&theme=radical" alt="GitHub Streak" />
+</p>
