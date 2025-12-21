@@ -1,4 +1,9 @@
-# 👋 Hi there, I'm Sahil Gupta!
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=6A5ACD&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub!;I'm+Sahil+Gupta;Full+Stack+Developer+%7C+Software+Engineering+Student;ML+%7C+Web+%7C+Cloud+Enthusiast)](https://git.io/typing-svg)
+
+<h3 align="center">
+  Full Stack Developer | Software Engineering Student | ML & Web Enthusiast
+</h3>
+
 
 ## 🌐 How to Reach Me
 
