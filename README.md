@@ -95,3 +95,10 @@
 <p align="center">
   <img width="48%" src="https://streak-stats.demolab.com?user=SahilGupta721&theme=radical" alt="GitHub Streak" />
 </p>
+<p align="center">
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img width="800" height="220"
+      src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SahilGupta721&theme=monokai"
+      alt="Profile Summary Card" />
+  </a>
+</p>
