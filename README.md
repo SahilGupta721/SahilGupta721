@@ -1,104 +1,79 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=6A5ACD&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub!;I'm+Sahil+Gupta;Full+Stack+Developer+%7C+Software+Engineering+Student;ML+%7C+Web+%7C+Cloud+Enthusiast)](https://git.io/typing-svg)
+<div align="center">
 
-<h3 align="center">
-  Full Stack Developer | Software Engineering Student | ML & Web Enthusiast
-</h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6A5ACD&center=true&vCenter=true&width=800&lines=Hey%2C+I'm+Sahil+Gupta+%F0%9F%91%8B;Full+Stack+Developer+%7C+ML+Enthusiast;Building+things+that+matter)](https://git.io/typing-svg)
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-sahilgupta.work-6A5ACD?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sahilgupta.work)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahil-gupta-7224962a7/)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sahilgupta70500@gmail.com)
+![Visitor Count](https://komarev.com/ghpvc/?username=SahilGupta721&color=6A5ACD&style=for-the-badge&label=PROFILE+VIEWS)
 
-## 🌐 How to Reach Me
-
-- 📧 **Email:** [sahilgupta70500@gmail.com](mailto:sahilgupta70500@gmail.com)  
-- 💼 **LinkedIn:** [linkedin.com/in/sahil-gupta-7224962a7](https://www.linkedin.com/in/sahil-gupta-7224962a7/)  
-- 💻 **GitHub:** [github.com/SahilGupta721](https://github.com/SahilGupta721)  
-- 🌎 **Website:** [sahilgupta.work](https://sahilgupta.work)
-
-<p align="center">
-  <a href="mailto:sahilgupta70500@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" width="48" />
-  </a>
-  <a href="https://www.linkedin.com/in/sahil-gupta-7224962a7/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="48" />
-  </a>
-  <a href="https://github.com/SahilGupta721" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="48" />
-  </a>
-<a href="https://sahilgupta.work" target="_blank">
-  </p>
+</div>
 
 ---
 
-## 🧠 Languages & Tools
-<p align="left">
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=python" />
-  </a>
-  <a href="https://www.java.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=java" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://skillicons.dev/icons?i=js" />
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=ts" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="https://skillicons.dev/icons?i=html" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img src="https://skillicons.dev/icons?i=css" />
-  </a>
-  <a href="https://react.dev/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=react" />
-  </a>
-  <a href="https://nodejs.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=nodejs" />
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=mongodb" />
-  </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=git" />
-  </a>
-  <a href="https://github.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
-  <a href="https://code.visualstudio.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=vscode" />
-  </a>
-  <a href="https://www.linux.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linux" />
-  </a>
-  <a href="https://www.docker.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=docker" />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=mysql" />
-  </a>
-  <a href="https://www.postman.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=postman" />
-  </a>
-  <a href="https://aws.amazon.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=aws" />
-  </a>
-  <a href="https://cloud.google.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gcp" />
-  </a>
-  <a href="https://en.wikipedia.org/wiki/Artificial_intelligence" target="_blank">
-    <img src="https://skillicons.dev/icons?i=ai" />
-  </a>
-</p>
+## 👨‍💻 About Me
 
+Software Engineering student at Centennial College (Toronto) building at the intersection of **full stack development** and **machine learning**. I ship real products — from AI-powered volunteer matching platforms to fraud detection systems.
 
-## 🏆 GitHub Stats
-![Sahil's GitHub stats](https://github-readme-stats-lac-zeta-93.vercel.app/api?username=SahilGupta721&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=0)
-![Top Langs](https://github-readme-stats-lac-zeta-93.vercel.app/api/top-langs/?username=SahilGupta721&layout=compact&theme=tokyonight&count_private=true&cache_seconds=0)
-<p align="center">
-  <img width="48%" src="https://streak-stats.demolab.com?user=SahilGupta721&theme=radical" alt="GitHub Streak" />
-</p>
-<p align="center">
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img width="800" height="220"
-      src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SahilGupta721&theme=monokai"
-      alt="Profile Summary Card" />
-  </a>
-</p>
+- 🔭 Currently building: **ConnectKingston** — AI matching platform for volunteer opportunities
+- 🧠 Learning: **PyTorch**, advanced TypeScript patterns
+- 🏆 Hackathon competitor: **Mac-a-thon 2026**
+- 📍 Based in Toronto, ON
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+![Python](https://skillicons.dev/icons?i=python)
+![JavaScript](https://skillicons.dev/icons?i=js)
+![TypeScript](https://skillicons.dev/icons?i=ts)
+![Java](https://skillicons.dev/icons?i=java)
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
+
+**Frameworks & Tools**
+
+![React](https://skillicons.dev/icons?i=react)
+![NodeJS](https://skillicons.dev/icons?i=nodejs)
+![MongoDB](https://skillicons.dev/icons?i=mongodb)
+![MySQL](https://skillicons.dev/icons?i=mysql)
+![Docker](https://skillicons.dev/icons?i=docker)
+![AWS](https://skillicons.dev/icons?i=aws)
+![GCP](https://skillicons.dev/icons?i=gcp)
+![Linux](https://skillicons.dev/icons?i=linux)
+![Git](https://skillicons.dev/icons?i=git)
+![Postman](https://skillicons.dev/icons?i=postman)
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Tech | Live |
+|--------|-------------|------|------|
+| [**ConnectKingston**](https://github.com/MichelleKellyy/ConnectKingston) | AI-powered platform matching Kingston residents with volunteer opportunities | JS, AI | — |
+| [**CreditCardFraudDetector**](https://github.com/SahilGupta721/CreditCardFraudDetector) | ML-based fraud detection system with real-time classification | Python, ML | — |
+| [**Mac-a-thon 2026**](https://github.com/Yatriba-Rathod/Mac-a-thon-2026) | Hackathon project — built under 24hrs | TypeScript | — |
+| [**Portfolio Website**](https://github.com/SahilGupta721/portfolio-website) | Personal portfolio built from scratch with React | React, JS | [sahilgupta.work](https://sahilgupta.work) |
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Sahil's GitHub stats](https://github-readme-stats-lac-zeta-93.vercel.app/api?username=SahilGupta721&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0D1117)
+![Top Languages](https://github-readme-stats-lac-zeta-93.vercel.app/api/top-langs/?username=SahilGupta721&layout=compact&theme=tokyonight&count_private=true&hide_border=true&bg_color=0D1117)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=SahilGupta721&theme=tokyonight&hide_border=true&background=0D1117)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=SahilGupta721&theme=tokyonight&row=1&column=6&no-bg=true&margin-w=4&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+<div align="center">
+  <i>Open to internships and new grad opportunities in software engineering & ML — let's connect.</i>
+</div>
