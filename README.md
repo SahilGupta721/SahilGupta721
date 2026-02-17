@@ -90,8 +90,8 @@
 
 
 ## 🏆 GitHub Stats
-![Sahil's GitHub stats](https://github-readme-stats-lac-zeta-93.vercel.app/api?username=SahilGupta721&show_icons=true&theme=tokyonight&count_private=true)
-![Top Langs](https://github-readme-stats-lac-zeta-93.vercel.app/api/top-langs/?username=SahilGupta721&layout=compact&theme=tokyonight&count_private=true)
+![Sahil's GitHub stats](https://github-readme-stats-lac-zeta-93.vercel.app/api?username=SahilGupta721&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=0)
+![Top Langs](https://github-readme-stats-lac-zeta-93.vercel.app/api/top-langs/?username=SahilGupta721&layout=compact&theme=tokyonight&count_private=true&cache_seconds=0)
 <p align="center">
   <img width="48%" src="https://streak-stats.demolab.com?user=SahilGupta721&theme=radical" alt="GitHub Streak" />
 </p>
