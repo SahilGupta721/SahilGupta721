@@ -9,18 +9,38 @@
 
 </div>
 
----
+<br>
 
 ## 👨‍💻 About Me
 
-Software Engineering student at Centennial College (Toronto) building at the intersection of **full stack development** and **machine learning**. I ship real products — from AI-powered volunteer matching platforms to fraud detection systems.
+> **I build fast, ship faster, and never stop learning.**
 
-- 🔭 Currently building: **ConnectKingston** — AI matching platform for volunteer opportunities
-- 🧠 Learning: **PyTorch**, advanced TypeScript patterns
-- 🏆 Hackathon competitor: **Mac-a-thon 2026**
-- 📍 Based in Toronto, ON
+Self-driven Software Engineering student based in **Toronto** operating at the intersection of **full stack development** and **machine learning**. I don't just study concepts, I apply them. I've competed in **10+ hackathons**, shipping AI-powered platforms under 24–36 hour deadlines, and built personal projects like a full **credit card fraud detection system** independently from the ground up.
 
----
+My stack spans **React, Next.js, Node.js, FastAPI, Python, MongoDB, Firebase Auth** on the web side, and **scikit-learn, PyTorch, OpenCV, YOLOv8, Hugging Face Transformers, LLM integration (Cohere), NumPy** on the ML side.
+
+<br>
+
+<table>
+  <tr>
+    <td>🏆</td>
+    <td><strong>10+ hackathons</strong> competed — Mac-a-Thon 2026 (McMaster), KingHacks 2026 & more</td>
+  </tr>
+  <tr>
+    <td>🤖</td>
+    <td>Leveling up in <strong>PyTorch</strong>, <strong>LangChain & RAG pipelines</strong>, <strong>Cloud (AWS, GCP, Azure)</strong> & <strong>CI/CD</strong></td>
+  </tr>
+  <tr>
+    <td>🌐</td>
+    <td>Full stack: React, Next.js, FastAPI, Python, MongoDB, Firebase + scikit-learn, PyTorch, OpenCV, YOLOv8, Hugging Face, LLM integration, NumPy</td>
+  </tr>
+  <tr>
+    <td>📍</td>
+    <td>Based in <strong>Toronto, ON</strong></td>
+  </tr>
+</table>
+
+<br>
 
 ## 🛠️ Tech Stack
 
@@ -30,34 +50,40 @@ Software Engineering student at Centennial College (Toronto) building at the int
 ![JavaScript](https://skillicons.dev/icons?i=js)
 ![TypeScript](https://skillicons.dev/icons?i=ts)
 ![Java](https://skillicons.dev/icons?i=java)
+![C#](https://skillicons.dev/icons?i=cs)
 ![HTML](https://skillicons.dev/icons?i=html)
 ![CSS](https://skillicons.dev/icons?i=css)
 
 **Frameworks & Tools**
 
 ![React](https://skillicons.dev/icons?i=react)
+![Next.js](https://skillicons.dev/icons?i=nextjs)
 ![NodeJS](https://skillicons.dev/icons?i=nodejs)
+![FastAPI](https://skillicons.dev/icons?i=fastapi)
 ![MongoDB](https://skillicons.dev/icons?i=mongodb)
 ![MySQL](https://skillicons.dev/icons?i=mysql)
+![Firebase](https://skillicons.dev/icons?i=firebase)
 ![Docker](https://skillicons.dev/icons?i=docker)
 ![AWS](https://skillicons.dev/icons?i=aws)
 ![GCP](https://skillicons.dev/icons?i=gcp)
+![Azure](https://skillicons.dev/icons?i=azure)
 ![Linux](https://skillicons.dev/icons?i=linux)
 ![Git](https://skillicons.dev/icons?i=git)
 ![Postman](https://skillicons.dev/icons?i=postman)
+![OpenCV](https://skillicons.dev/icons?i=opencv)
 
----
+<br>
 
 ## 🚀 Featured Projects
 
-| Project | Description | Tech | Live |
-|--------|-------------|------|------|
-| [**ConnectKingston**](https://github.com/MichelleKellyy/ConnectKingston) | AI-powered platform matching Kingston residents with volunteer opportunities | JS, AI | — |
-| [**CreditCardFraudDetector**](https://github.com/SahilGupta721/CreditCardFraudDetector) | ML-based fraud detection system with real-time classification | Python, ML | — |
-| [**Mac-a-thon 2026**](https://github.com/Yatriba-Rathod/Mac-a-thon-2026) | Hackathon project — built under 24hrs | TypeScript | — |
-| [**Portfolio Website**](https://github.com/SahilGupta721/portfolio-website) | Personal portfolio built from scratch with React | React, JS | [sahilgupta.work](https://sahilgupta.work) |
+| Project | Description | Tech |
+|--------|-------------|------|
+| [**Mac-a-Park**](https://github.com/Yatriba-Rathod/Mac-a-thon-2026) | **Mac-a-Thon 2026 @ McMaster University** — Real-time computer vision system using YOLOv8 & live video feeds to detect parking occupancy, with a FastAPI backend and Next.js dashboard | Python, OpenCV, YOLOv8, FastAPI, Next.js, React, MongoDB, TypeScript |
+| [**ConnectKingston**](https://github.com/MichelleKellyy/ConnectKingston) | **KingHacks 2026 @ Queen's University** — AI volunteer matching platform using Cohere LLM for intelligent ranking, with FastAPI backend & Firebase Auth | JS, React, Python, FastAPI, Cohere LLM, Firebase, MongoDB |
+| [**CreditCardFraudDetector**](https://github.com/SahilGupta721/CreditCardFraudDetector) | **Personal project** — Random Forest fraud detection on 250K+ transactions. 92% Precision, 85% Recall, 88% F1-Score. Full stack with FastAPI & MongoDB | Python, scikit-learn, FastAPI, React, MongoDB, NumPy |
+| [**Portfolio Website**](https://github.com/SahilGupta721/portfolio-website) | Personal portfolio built from scratch with React | React, JS |
 
----
+<br>
 
 ## 📊 GitHub Stats
 
@@ -72,8 +98,8 @@ Software Engineering student at Centennial College (Toronto) building at the int
 
 </div>
 
----
+<br>
 
 <div align="center">
-  <i>Open to internships and new grad opportunities in software engineering & ML — let's connect.</i>
+  <i>Always building. Always learning.</i>
 </div>
