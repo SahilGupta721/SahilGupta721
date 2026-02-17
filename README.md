@@ -24,7 +24,7 @@ My stack spans **React, Next.js, Node.js, FastAPI, Python, MongoDB, Firebase Aut
 <table>
   <tr>
     <td>🏆</td>
-    <td><strong>10+ hackathons</strong> competed — Mac-a-Thon 2026 (McMaster), KingHacks 2026 & more</td>
+    <td><strong>10+ hackathons</strong> competed — Mac-a-Thon 2026 (McMaster), KingHacks 2026 (Queen's) & more</td>
   </tr>
   <tr>
     <td>🤖</td>
