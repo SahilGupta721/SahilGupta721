@@ -89,8 +89,8 @@ My stack spans **React, Next.js, Node.js, FastAPI, Python, MongoDB, Firebase Aut
 
 <div align="center">
 
-![Sahil's GitHub stats](https://github-readme-stats-lac-zeta-93.vercel.app/api?username=SahilGupta721&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0D1117)
-![Top Languages](https://github-readme-stats-lac-zeta-93.vercel.app/api/top-langs/?username=SahilGupta721&layout=compact&theme=tokyonight&count_private=true&hide_border=true&bg_color=0D1117)
+<!-- ![Sahil's GitHub stats](https://github-readme-stats-lac-zeta-93.vercel.app/api?username=SahilGupta721&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0D1117) -->
+<!-- ![Top Languages](https://github-readme-stats-lac-zeta-93.vercel.app/api/top-langs/?username=SahilGupta721&layout=compact&theme=tokyonight&count_private=true&hide_border=true&bg_color=0D1117) -->
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=SahilGupta721&theme=tokyonight&hide_border=true&background=0D1117)
 
