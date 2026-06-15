@@ -15,7 +15,7 @@
 
 > **I build fast, ship faster, and never stop learning.**
 
-Self-driven Software Engineering student based in **Toronto** operating at the intersection of **full stack development** and **machine learning**. I don't just study concepts, I apply them. I've competed in **10+ hackathons**, shipping AI-powered platforms under 24–36 hour deadlines, and built personal projects like a full **credit card fraud detection system** independently from the ground up.
+Self-driven Software Engineering student based in **Toronto** operating at the intersection of **full stack development** and **machine learning**. I don't just study concepts, I apply them. I've competed in **12+ hackathons**, shipping AI-powered platforms under 24–36 hour deadlines, and built personal projects like a full **credit card fraud detection system** independently from the ground up.
 
 My stack spans **React, Next.js, Node.js, FastAPI, Python, MongoDB, Firebase Auth** on the web side, and **scikit-learn, PyTorch, OpenCV, YOLOv8, Hugging Face Transformers, LLM integration (Cohere), NumPy** on the ML side.
 
@@ -24,7 +24,15 @@ My stack spans **React, Next.js, Node.js, FastAPI, Python, MongoDB, Firebase Aut
 <table>
   <tr>
     <td>🏆</td>
-    <td><strong>10+ hackathons</strong> competed — Mac-a-Thon 2026 (McMaster), KingHacks 2026 (Queen's) & more</td>
+    <td><strong>12+ hackathons</strong> competed · Mac-a-Thon 2026 (McMaster), KingHacks 2026 (Queen's) & more</td>
+  </tr>
+  <tr>
+    <td>🥇</td>
+    <td><strong>WON Best Gamification Hack</strong> · <a href="https://gdg-hacks-3.devpost.com/">GDG Hacks 3</a> · <a href="https://devpost.com/software/cozyvillage">CodeyVillage</a></td>
+  </tr>
+  <tr>
+    <td>🥇</td>
+    <td><strong>WON Best Reach</strong> · <a href="https://huskyhack-2026.devpost.com/">HuskyHack 2026</a> · <a href="https://devpost.com/software/braillequest">BrailleQuest</a></td>
   </tr>
   <tr>
     <td>🤖</td>
@@ -78,19 +86,18 @@ My stack spans **React, Next.js, Node.js, FastAPI, Python, MongoDB, Firebase Aut
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| [**Mac-a-Park**](https://github.com/Yatriba-Rathod/Mac-a-thon-2026) | **Mac-a-Thon 2026 @ McMaster University** — Real-time computer vision system using YOLOv8 & live video feeds to detect parking occupancy, with a FastAPI backend and Next.js dashboard | Python, OpenCV, YOLOv8, FastAPI, Next.js, React, MongoDB, TypeScript |
-| [**ConnectKingston**](https://github.com/MichelleKellyy/ConnectKingston) | **KingHacks 2026 @ Queen's University** — AI volunteer matching platform using Cohere LLM for intelligent ranking, with FastAPI backend & Firebase Auth | JS, React, Python, FastAPI, Cohere LLM, Firebase, MongoDB |
-| [**CreditCardFraudDetector**](https://github.com/SahilGupta721/CreditCardFraudDetector) | **Personal project** — Random Forest fraud detection on 250K+ transactions. 92% Precision, 85% Recall, 88% F1-Score. Full stack with FastAPI & MongoDB | Python, scikit-learn, FastAPI, React, MongoDB, NumPy |
-| [**Portfolio Website**](https://github.com/SahilGupta721/portfolio-website) | Personal portfolio built from scratch with React | React, JS |
+| [**CodeyVillage**](https://github.com/SahilGupta721/GDG-HACKS3) | 🏆 **WON Best Gamification Hack · GDG Hacks 3** · Multiplayer productivity game where developers earn in-game coins from GitHub commits, LeetCode solves & job applications to build a shared pixel-art island | Next.js, Phaser 3, Python, FastAPI, MongoDB, Firebase, WebSockets, Chrome Extension |
+| [**BrailleQuest**](https://github.com/SahilGupta721/BrailleQuest) | 🏆 **WON Best Reach · HuskyHack 2026** · Audio story game teaching braille to visually impaired kids via a 3D-printed Makey Makey controller, with ElevenLabs AI narration | Next.js, TypeScript, Tailwind CSS, ElevenLabs, Makey Makey |
+| [**Mac-a-Park**](https://github.com/Yatriba-Rathod/Mac-a-thon-2026) | **Mac-a-Thon 2026 @ McMaster University** · Real-time computer vision system using YOLOv8 & live video feeds to detect parking occupancy, with a FastAPI backend and Next.js dashboard | Python, OpenCV, YOLOv8, FastAPI, Next.js, React, MongoDB, TypeScript |
+| [**ConnectKingston**](https://github.com/MichelleKellyy/ConnectKingston) | **KingHacks 2026 @ Queen's University** · AI volunteer matching platform using Cohere LLM for intelligent ranking, with FastAPI backend & Firebase Auth | JS, React, Python, FastAPI, Cohere LLM, Firebase, MongoDB |
+| [**CreditCardFraudDetector**](https://github.com/SahilGupta721/CreditCardFraudDetector) | **Personal project** · Random Forest fraud detection on 250K+ transactions. 92% Precision, 85% Recall, 88% F1-Score. Full stack with FastAPI & MongoDB | Python, scikit-learn, FastAPI, React, MongoDB, NumPy |
+| [**Portfolio Website**](https://github.com/SahilGupta721/portfolio-website) | Personal portfolio built with Next.js | Next.js, JavaScript, Tailwind |
 
 <br>
 
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<!-- ![Sahil's GitHub stats](https://github-readme-stats-lac-zeta-93.vercel.app/api?username=SahilGupta721&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0D1117) -->
-<!-- ![Top Languages](https://github-readme-stats-lac-zeta-93.vercel.app/api/top-langs/?username=SahilGupta721&layout=compact&theme=tokyonight&count_private=true&hide_border=true&bg_color=0D1117) -->
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=SahilGupta721&theme=tokyonight&hide_border=true&background=0D1117)
 
